@@ -1,0 +1,8 @@
+# Optional corpus/download/annotation utilities and their tests
+pyarrow
+requests
+biopython
+pandas
+tqdm
+
+python-dotenv
